@@ -1,0 +1,5 @@
+pandas>=0.20.1
+pytz>=2010o
+numpy
+scipy
+matplotlib
